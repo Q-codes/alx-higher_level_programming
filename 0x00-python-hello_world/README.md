@@ -1,0 +1,1 @@
+Python basics, Hello world and basic scripts
